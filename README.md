@@ -50,15 +50,15 @@
 
  #### 1- Clone the repository
  #### 2- Create your own virtual environment
- ~
+ ~~~
  python3 -m venv venv
  source venv/bin/activate
- ~
+ ~~~
  #### 3- Install the requirements
- ~
+ ~~~
 pip install -r requirements.txt
- ~
+ ~~~
  #### 4- Run server
- ~
+ ~~~
 python manage.py runserver
- ~
+ ~~~
